@@ -6,12 +6,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=k7nghost.k7nghost&"  />
 </div>
 
-###
-
-<p align="left">👂 My name is Kevin Argueta<br>👩 Pronouns: He/Him<br>🔭 I’m currently working on a financial stock tracker<br>🌱 I’m currently learning React<br>🤝 I’m looking to collaborate on projects that deal with digital forensics<br>🤔 I’m looking for help with creating a plugin feature for my Cultivator project<br>💬 Ask me about WPF<br>📫 How to reach me: kevinargueta05@gmail.com<br>❤️ I love solving complex software problems<br>⚡ Fun fact: I also love working on hardware</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k7nghost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=k7nghost&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
